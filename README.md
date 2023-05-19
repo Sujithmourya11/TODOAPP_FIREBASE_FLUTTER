@@ -78,14 +78,7 @@ flutter pub get
 flutter run
 ```
 
-## Author
 
-👤 **Balram Rathore**
-
-- Website: http://www.youtube.com/c/DevStack
-- Github: [@DevStack06](https://github.com/DevStack06)
-
-## Show your support
 
 Give a ⭐️ if this project helped you!
 
